@@ -27,7 +27,13 @@ import { names } from '@alexvipond/mulago-foundation-portfolio'
 
 ### Fetching
 
-```js
-fetch(...)
-```
+You can fetch the data from the `src` directory:
 
+```js
+async function getMulagoFoundationPortfolio() {
+  const response = await fetch('https://raw.githubusercontent.com/AlexVipond/mulago-foundation-portfolio/main/src/portfolio.json'),
+        json = await response.json()
+ 
+ return json
+}
+```
