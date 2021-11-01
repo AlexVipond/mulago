@@ -45,6 +45,11 @@ declare type Organization = {
   },
   why: string[],
 }
+
+declare const portfolio: Organization[]
+declare const names: string[]
+
+export { Organization, portfolio, names }
 `
   writeFileSync('lib/index.d.ts', dts)
 }

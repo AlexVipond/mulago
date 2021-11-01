@@ -1,5 +1,5 @@
 {
-  "name": "@alexvipond/mulago-foundation-porfolio",
+  "name": "@alexvipond/mulago-foundation-portfolio",
   "version": "0.0.0",
   "description": "Dataset of organizations in the Mulago Foundation's portfolio",
   "main": "lib/index.cjs",
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexvipond/mulago-foundation-porfolio.git"
+    "url": "git+https://github.com/alexvipond/mulago-foundation-portfolio.git"
   },
   "keywords": [
     "mulago foundation",
@@ -35,9 +35,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alexvipond/mulago-foundation-porfolio/issues"
+    "url": "https://github.com/alexvipond/mulago-foundation-portfolio/issues"
   },
-  "homepage": "https://github.com/alexvipond/mulago-foundation-porfolio",
+  "homepage": "https://github.com/alexvipond/mulago-foundation-portfolio",
   "dependencies": {
     "esbuild": "^0.13.10",
     "esbuild-register": "^3.0.0",
