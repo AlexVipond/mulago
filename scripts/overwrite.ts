@@ -1,13 +1,20 @@
 import { readFileSync, writeFileSync } from 'fs'
 import { Organization } from './get'
 
-const portfolio = JSON.parse(readFileSync('lib/portfolio.json', 'utf8')) as Organization[],
+const portfolio = JSON.parse(readFileSync('src/portfolio.json', 'utf8')) as Organization[],
       overwritten = portfolio.map(org => ({
         ...org,
-        why: org.why.filter(why => why !== 'Why we invest')
+        investments: org.investments.map(({ amount, type }) => ({
+          amount,
+          type: type.toLowerCase() === 'in convertible debt'
+            ? 'convertible debt'
+            : type.toLowerCase() === 'unrestricted grant'
+              ? 'unrestricted grants'
+              : type,
+        }))
       }))
 
 writeFileSync(
-  'lib/portfolio.json',
+  'src/portfolio.json',
   JSON.stringify(overwritten, null, 2),
 )

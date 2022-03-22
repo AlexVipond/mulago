@@ -352,7 +352,7 @@
       "website": "https://www.pula-advisors.com/",
       "totalInvestments": 350000,
       "investmentTypes": [
-        "unrestricted grant",
+        "unrestricted grants",
         "convertible debt"
       ],
       "created": 2013,
@@ -386,7 +386,7 @@
       "totalInvestments": 600000,
       "investmentTypes": [
         "unrestricted grants",
-        "in convertible debt"
+        "convertible debt"
       ],
       "created": 2018,
       "fellows_rainer": "Emiliano Mroue",

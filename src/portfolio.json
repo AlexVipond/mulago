@@ -522,7 +522,7 @@
     "investments": [
       {
         "amount": 50000,
-        "type": "unrestricted grant"
+        "type": "unrestricted grants"
       },
       {
         "amount": 300000,
@@ -576,7 +576,7 @@
       },
       {
         "amount": 500000,
-        "type": "in convertible debt"
+        "type": "convertible debt"
       }
     ],
     "created": 2018,

@@ -65,7 +65,11 @@ export async function get (): Promise<Organization[]> {
                     amountMultiplier = Number(amountMatch[1]) ?? 0,
                     amount = amountBase * amountMultiplier,
                     typeMatch = text.match(/(?:M|K|million)(.+)/),
-                    type = (typeMatch[1] ?? '').trim() as Organization['investments'][0]['type']
+                    type = (typeMatch[1] ?? '')
+                      .trim()
+                      .toLowerCase()
+                      .replace(/in convertible debt/, 'convertible debt')
+                      .replace(/unrestricted grant$/, 'unrestricted grants') as Organization['investments'][0]['type']
 
               return { amount, type }
             })
