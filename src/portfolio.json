@@ -1,6 +1,7 @@
 [
   {
     "name": "Chancen International",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/chancen-international",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60be3a265a2ae5b4d97c0ff0_Kepler%20Graduates.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60abeb017f57160358b8628a_CHANCEN%20Logo.png"
@@ -23,6 +24,7 @@
   },
   {
     "name": "Dost",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/dost",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6047de001cd5e5750c4de161_Dost-banner.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6047de1c6c4070202427c4d9_DostPrimaryLogoRGB.png"
@@ -45,6 +47,7 @@
   },
   {
     "name": "Educate Girls",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/educate-girls",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6047dec2619dbee4b978a456_educate-girls-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6047deb633311e84ef6ddf26_educate-girls-logo.jpg"
@@ -67,6 +70,7 @@
   },
   {
     "name": "Food 4 Education",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/food-4-education",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60679f8a3dcff6c948153561_food-4-ed-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60679f8e25efbe71dfbfd3e7_food4ed-logo.jpg"
@@ -89,6 +93,7 @@
   },
   {
     "name": "Imagine Worldwide",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/imagine-worldwide",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60679fd1c01531b176c0a234_Imagine-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60679fd5c015317a32c0a236_Imagine-Logo.png"
@@ -111,6 +116,7 @@
   },
   {
     "name": "Lively Minds",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/lively-minds",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/604959acdb1d256611c8b9c0_Lively-minds-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6049599eb408b01d1b96fc95_LivelyMinds_PrimaryLogo_POS.png"
@@ -133,6 +139,7 @@
   },
   {
     "name": "Luminos Fund",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/luminos-fund",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6067a023c306d4dd0f6b3d52_Luminos-feature-2.png",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6067a027af2d3e5ad08c607d_Luminos_Logo.jpg"
@@ -155,6 +162,7 @@
   },
   {
     "name": "Taleemabad",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/taleemabad",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/61b9fcea0d3f80d59b6a7dcf_taleemabad%202.jpeg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/61b9fceefc208b6db11508fa_taleemabad%20logo.png"
@@ -178,6 +186,7 @@
   },
   {
     "name": "Ubongo",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/ubongo",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6067a08286b1f25d59bad3dc_Ubongo-Feature-2.png",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6067a0831cff2c1e74e620ce_ubongo-logo.png"
@@ -200,6 +209,7 @@
   },
   {
     "name": "Aceli Africa",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/aceli-africa",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60abe9a503fadb2651b9dcc4_aceli%20photo%201.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60abe9d9bd2e895173b62fae_Aceli-Africa-FullColor-Logo%20(1).png"
@@ -222,6 +232,7 @@
   },
   {
     "name": "Babban Gona",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/babban-gona",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6048435603d00ccfa03e9b8d_babban-gona-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6048437f04c202aadcc06d3c_babban-gona-logo.png"
@@ -248,6 +259,7 @@
   },
   {
     "name": "Digital Green",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/digital-green",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/606798b886b1f2b2babaa205_DigitalGreenEthiopia2017-PhotoDianaMrazikova-060.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/606798ba1e21c700e9e562f6_digital%20green%20logo.jpg"
@@ -270,6 +282,7 @@
   },
   {
     "name": "Farmerline",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/farmerline",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6067990709bea410050b1042_Farmerline-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6067990add78fd8a7968f4fa_Farmerline-Logo_new.png"
@@ -296,6 +309,7 @@
   },
   {
     "name": "Hello Tractor",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/hello-tractor",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/606799b1d28c5c0d4d947466_Hello-Tractor-Feature-4.png",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/606799b41f033937828a8a35_Hello-Tractor-logo.png"
@@ -322,6 +336,7 @@
   },
   {
     "name": "Ignitia",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/ignitia",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60679a149c3b8579d7779d02_Ignitia%20feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60679a19f4f8b174e37cad21_ignitia-logo.jpg"
@@ -348,6 +363,7 @@
   },
   {
     "name": "Kheyti",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/kheyti",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60679ac816f374355804fef8_Kheyti-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60679acf35ae6e1a82a20842_Kheyti-Logo.png"
@@ -370,6 +386,7 @@
   },
   {
     "name": "Komaza",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/komaza",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60679a7035ae6e33eca20643_komaza-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60679a73dd78fd5b5368f813_komaza-logo.jpg"
@@ -400,6 +417,7 @@
   },
   {
     "name": "Mountain Hazelnuts",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/mountain-hazelnuts",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60679b1a05ece093b8d72b4d_mountain-hazelnuts-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60679b1d1e205c78029eedc5_MountainHazelnuts%20logo.jpg"
@@ -426,6 +444,7 @@
   },
   {
     "name": "MyAgro",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/myagro",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60679b5f3013aa9c3402f215_myagro-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60679b62e8ac571544abaca1_myagro-logo.jpg"
@@ -448,6 +467,7 @@
   },
   {
     "name": "One Acre Fund",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/one-acre-fund",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60679bf7581825a2ce77d177_one-acre-fund-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60679bfaa2207a7e30fd9574_one-acre-fund-logo.jpg"
@@ -470,6 +490,7 @@
   },
   {
     "name": "Proximity Designs",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/proximity-designs",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60679c99581825069477d5e6_proximity-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60679c9d8aaf247da540d6ea_proximity-logo.png"
@@ -492,6 +513,7 @@
   },
   {
     "name": "Pula",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/pula",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60679d508eb942808d5c5bb7_Pula%20feature.png",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60679d5104d7b90a3579371f_Pula%20Logo.png"
@@ -518,6 +540,7 @@
   },
   {
     "name": "PxD",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/pxd",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60679c4f73e522f8cfe5a500_PAD-Feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/61b9e2611106b5ec72076d82_PxD-logo.svg"
@@ -540,6 +563,7 @@
   },
   {
     "name": "West African Rice Company",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/west-african-rice-company",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60679deca2207a7c2cfd9b93_WARC-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60679dee09bea4de740b337a_WARC-logo.png"
@@ -566,6 +590,7 @@
   },
   {
     "name": "Bridges to Prosperity",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/bridges-to-prosperity",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/604844cbb3b5597b7c6460f2_b2p-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/604844a796b01c2976714953_bridges-to-prosperity-logo.png"
@@ -588,6 +613,7 @@
   },
   {
     "name": "Medha",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/medha",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/61b75dff0108852db8b6235d_medha%20website%204.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/61b75e1252fda206ae5175e8_medha%20Standard%20Logo%20(Original%20color).png"
@@ -611,6 +637,7 @@
   },
   {
     "name": "The/Nudge",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/the-nudge",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60679ba8a7e7820f0d2b2cfc_The_Nudge_feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60679babbd1846a6f3e9e5ce_The_Nudge_logo.png"
@@ -633,6 +660,7 @@
   },
   {
     "name": "VisionSpring",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/visionspring",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60679da9af2d3ea55e8c525c_vision-spring-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60679dacc306d490c66b370f_vision-spring-logo.jpg"
@@ -655,6 +683,7 @@
   },
   {
     "name": "Amani Global Works",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/amani-global-works",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6048f7a4ca92440618b7696c_Amani-Website-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6048f7d17baa09e514088974_Amani-Logo-NEW-2.jpg"
@@ -677,6 +706,7 @@
   },
   {
     "name": "Development Media International",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/development-media-international",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6067734d8eb9420e385b7389_dmi-feature.png",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6067735009bea40cfc0a41da_dmi-logo.jpg"
@@ -699,6 +729,7 @@
   },
   {
     "name": "Equalize Health",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/equalize-health",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/606773e81e205c25ed9e3862_equalize-health-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/606773ea73e5221667e4ef03_equalize-health-logo.png"
@@ -722,6 +753,7 @@
   },
   {
     "name": "Friendship Bench",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/friendship-bench",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60abee203771b63d5b2a5a92_friendship%20bench%20picture%205.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60abee25d0009ba501b3b9ee_friendship%20bench%20logo%20transparent.png"
@@ -744,6 +776,7 @@
   },
   {
     "name": "Healthy Learners",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/healthy-learners",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6067743e1e21c76249e49b8e_Healthy-Kids-feature-2.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60677441bd1846423ae91a41_healthy-learners%20logo.png"
@@ -766,6 +799,7 @@
   },
   {
     "name": "Integrate Health",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/integrate-health",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/606776ae044730f2df3395c9_HTH-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/606776b473e5220b34e50246_Integrate-Health-logo.jpg"
@@ -788,6 +822,7 @@
   },
   {
     "name": "Intelehealth",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/intelehealth",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/606776f51cff2c0239e5143c_Intelehealth-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/606776fa16f3740432045129_Intelehealth-logo.jpg"
@@ -810,6 +845,7 @@
   },
   {
     "name": "Last Mile Health",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/last-mile-health",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60677739d28c5ce4ed93cc8a_last-mile-health-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6067773caf0a42476320e2d8_last-mile-health-logo.jpg"
@@ -833,6 +869,7 @@
   },
   {
     "name": "Living Goods",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/living-goods",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60677787581825cd0f772fd9_living-goods-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6067778cf99571b8440adb7d_LG%20logo.jpg"
@@ -856,6 +893,7 @@
   },
   {
     "name": "Lwala",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/lwala",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/606777c916f3743103045622_lwala-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/606777cda7e78233cd2a9300_lwala-logo.png"
@@ -878,6 +916,7 @@
   },
   {
     "name": "Medic",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/medic",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6067786d2a608b57432a8aea_medic-mobile-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6067786a1e205cd9b89e499c_Medic_Logo.png"
@@ -901,6 +940,7 @@
   },
   {
     "name": "Mothers2mothers",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/mothers-2-mothers",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/606778d2ccaf0d7948ec26e2_mothers-to-mothers-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/606778d3c70bbc12f70636b0_mothers-2-mothers-logo.png"
@@ -924,6 +964,7 @@
   },
   {
     "name": "Muso",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/muso",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/606786d5f6f46073881cc00a_muso-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/606786dd8eb94231925bd1e9_muso-logo.jpg"
@@ -947,6 +988,7 @@
   },
   {
     "name": "Nexleaf Analytics",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/nexleaf-analytics",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60676cb8f45cd3f55b67318d_nexleaf-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60676cbca7e78219202a5213_nexleaf-logo.png"
@@ -969,6 +1011,7 @@
   },
   {
     "name": "No Means No Worldwide",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/no-means-no-worldwide",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60a570abbdcb60e4eb704c2d_NMNW-39%20(3).jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60a571caffe9593bba158f5e_no%20means%20no%20logo.png"
@@ -991,6 +1034,7 @@
   },
   {
     "name": "Noora Health",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/noora-health",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6067882725efbeaf6bbf6c2b_noora-health-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/606788288aaf24e15b405a52_noora-health-logo.jpg"
@@ -1013,6 +1057,7 @@
   },
   {
     "name": "One Heart Worldwide",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/one-heart-worldwide",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60678896f04916e91d26177f_One-Heart-Worldwide-feature-2018.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6067889b9c3b85f5b47744f9_One-Heart-Worldwide-Logo.png"
@@ -1035,6 +1080,7 @@
   },
   {
     "name": "PIVOT",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/pivot",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60abeeaa55f08abac4c6906a_pivot%20picture%201.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60b7a74e331c3d2b7b783216_Screen%20Shot%202021-05-28%20at%2012.48.31%20PM.png"
@@ -1058,6 +1104,7 @@
   },
   {
     "name": "Sanku",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/sanku",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60678a42de5c8d0ddf97fb17_sanku-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60678a44bd18467a46e98db1_sanku-logo.png"
@@ -1080,6 +1127,7 @@
   },
   {
     "name": "SaveLIFE Foundation",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/savelife-foundation",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60678a9faf2d3e2ca38c0105_Savelife-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6070daa27d8b8f0a929be990_SLF-logo-01.png"
@@ -1102,6 +1150,7 @@
   },
   {
     "name": "Semilla Nueva",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/semilla-nueva",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60678af30b7cda024768ddf9_Semilla-nueva-feature-2.png",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60678aa254187c84c4b26507_Semilla-Nueva-logo.jpg"
@@ -1124,6 +1173,7 @@
   },
   {
     "name": "StrongMinds",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/strongminds",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60678b7216f3749f8a04b677_strongminds-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60678b7504d7b967a878de82_strongminds-logo.jpg"
@@ -1146,6 +1196,7 @@
   },
   {
     "name": "THINKMD",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/thinkmd",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60678bc3e8ac574a80ab66c7_THINKMD-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60678bc8f4f8b124b97c63ec_ThinkMD%20logo.png"
@@ -1173,6 +1224,7 @@
   },
   {
     "name": "Turn",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/turn",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60678bfec306d4b4876afaa2_Turn-feature-2.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60678c011f0339d5178a4e40_turn-logo.png"
@@ -1195,6 +1247,7 @@
   },
   {
     "name": "VillageReach",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/villagereach",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60678c7e044730829f34092f_VillageReach%20feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60678c7ffb08b4c1c66bb1b3_villagereach%20logo.jpg"
@@ -1218,6 +1271,7 @@
   },
   {
     "name": "Young1ove",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/young1ove",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60678d0e1e21c73545e514a7_younglove-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60678d0f86b1f2a13fba6728_Young-1ove-logo.png"
@@ -1240,6 +1294,7 @@
   },
   {
     "name": "EarthEnable",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/earthenable",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6067739605ece095c0d66c62_earthenable-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6067739c1f0339900c89d79a_earthenable-logo.jpg"
@@ -1262,6 +1317,7 @@
   },
   {
     "name": "Saha Global",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/saha-global",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6067892973bd5ed303ba80f9_saha-feature.png",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6067892b8aaf242ac7405bae_saha-global-logo.png"
@@ -1284,6 +1340,7 @@
   },
   {
     "name": "Sanergy",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/sanergy",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/606789dd73bd5e6cd9ba84b7_sanergy-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/606789df58182540d47782fb_Sanergy%20logo.jpg"
@@ -1306,6 +1363,7 @@
   },
   {
     "name": "WSUP",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/wsup",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60678cc716f37454ab04b901_WSUP-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60678cc95818251472778f67_WSUP-logo.jpg"
@@ -1328,6 +1386,7 @@
   },
   {
     "name": "Blue Ventures",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/blue-ventures",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6048f867b9b975e9b1b6296c_blue-ventures-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6048f88b7c6614675469e341_blue-ventures-logo.png"
@@ -1350,6 +1409,7 @@
   },
   {
     "name": "COMACO",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/comaco",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60676dd0fb08b401fb6b18d6_comaco-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60676dcd05ece0790bd65356_comaco-logo.png"
@@ -1373,6 +1433,7 @@
   },
   {
     "name": "Foundation for Ecological Security",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/foundation-for-ecological-security",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60676e56bd1846fefce8f470_FES-Feature.png",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60676e5f8d2cab2896295495_FES-Logo.png"
@@ -1395,6 +1456,7 @@
   },
   {
     "name": "Gaia Amazonas",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/gaia-amazonas",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60ac261b0f418a027aca6f65_GAIA_Miriti.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60b7a7324ad6aa32e8ed75a7_Screen%20Shot%202021-05-28%20at%2012.43.14%20PM.png"
@@ -1417,6 +1479,7 @@
   },
   {
     "name": "Global Forest Watch",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/global-forest-watch",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60676eb704d7b9f7e9784dc8_GFW-Feature.png",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60676eb9a7e7827fc82a5e5d_GFW%20logo.png"
@@ -1439,6 +1502,7 @@
   },
   {
     "name": "Maliasili",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/maliasili",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6050d1928756c605a94bd7f6_Maliasili-Feature-2.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6050d1959caabf0897ed204b_Maliasili_Logo_Transparent.png"
@@ -1461,6 +1525,7 @@
   },
   {
     "name": "Nia Tero",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/nia-tero",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60676f081cff2c02c5e4e1e9_Nia-Tero-Feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60676f0a9ac6366faf18414d_NIA%20Tero%20logo.png"
@@ -1478,6 +1543,7 @@
   },
   {
     "name": "Urgewald",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/urgewald",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/61ba26f6df01b880b84d2676_urgewald%208.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/61b75f6be14dbcfe6339df56_urgewald%20logo.jpg"
@@ -1501,6 +1567,7 @@
   },
   {
     "name": "Zola Electric",
+    "portfolioUrl": "https://www.mulagofoundation.org/our-portfolio/zola-electric",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6048f9bad4497148f56b66d8_off-grid-electric-feature.jpg",
       "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6048f9c393c13b5df072a3ba_zola-logo.svg"

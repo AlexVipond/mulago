@@ -14,6 +14,7 @@ function toKumu (portfolio: Organization[]): {
   elements: {
     label: string,
     type: 'Organization',
+    portfolioUrl: string,
     imageUrls_header: string,
     imageUrls_logo: string,
     website: string,
@@ -29,6 +30,7 @@ function toKumu (portfolio: Organization[]): {
     kumu.elements.push({
       label: organization.name,
       type: 'Organization',
+      portfolioUrl: organization.portfolioUrl,
       imageUrls_header: organization.imageUrls.header,
       imageUrls_logo: organization.imageUrls.logo,
       website: organization.website,

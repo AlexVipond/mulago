@@ -2,6 +2,7 @@ import { chromium } from 'playwright'
 
 export type Organization = {
   name: string,
+  portfolioUrl: string,
   imageUrls: {
     header: string,
     logo: string,
@@ -36,9 +37,10 @@ export async function get (): Promise<Organization[]> {
 
     console.log(link)
     
-    const organization: Organization = await page.evaluate(() => {
+    const organization: Organization = await page.evaluate(link => {
       return {
         name: document.title,
+        portfolioUrl: link,
         imageUrls: {
           header: (document.querySelector('header img') as HTMLImageElement).src,
           logo: (document.querySelector('.logo-org') as HTMLImageElement).src,
@@ -75,7 +77,7 @@ export async function get (): Promise<Organization[]> {
         },
         why: Array.from(document.querySelectorAll('.paragraph-block-portfolio p')).map(p => p.textContent).filter(p => p.length > 1 && p !== 'Why we invest'),
       }
-    })
+    }, link)
     
     organizations.push(organization)
 
