@@ -14,6 +14,7 @@
   "scripts": {
     "explore": "node -r esbuild-register scripts/explore.ts",
     "src": "node -r esbuild-register scripts/src.ts",
+    "kumu": "node -r esbuild-register scripts/kumu.ts",
     "prepare": "node -r esbuild-register scripts/prepare.ts",
     "test:only": "run() { uvu -r esbuild-register tests/$2 $1.test.ts$; }; run",
     "test": "npm run test:only .",

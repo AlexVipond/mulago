@@ -84,5 +84,7 @@ export async function get (): Promise<Organization[]> {
 
   await browser.close()
 
+  console.log(`Scraped data on ${organizations.length} organizations`)
+
   return organizations
 }
