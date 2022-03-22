@@ -118,7 +118,7 @@
     "website": "https://www.livelyminds.org/",
     "investments": [
       {
-        "amount": 150000,
+        "amount": 650000,
         "type": "unrestricted grants"
       }
     ],
@@ -154,6 +154,29 @@
     ]
   },
   {
+    "name": "Taleemabad",
+    "imageUrls": {
+      "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/61b9fcea0d3f80d59b6a7dcf_taleemabad%202.jpeg",
+      "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/61b9fceefc208b6db11508fa_taleemabad%20logo.png"
+    },
+    "website": "https://www.taleemabad.com/",
+    "investments": [
+      {
+        "amount": 350000,
+        "type": "unrestricted grants"
+      }
+    ],
+    "created": 2020,
+    "fellows": {
+      "rainer": "Haroon Yasin",
+      "henry": ""
+    },
+    "why": [
+      "Pakistan’s literacy rate is 70%.  Public schools are terrible, and poor parents often send kids to low-cost private schools, many of which aren’t much better. Taleemabad (also known as the Orenda Project) improves learning outcomes with a bundle of digital tools that can be “layered on” to these existing low-performing schools. ",
+      "Taleemabad’s digital bundle includes a curriculum with scripted lessons, an app for students with learning exercises and games to do at home, a teacher training app with game-based online modules, and an admin system that helps school managers run more successful schools. The Taleemabad team has a deep knowledge of content design, with a proven ability to deliver results - their TV broadcast and educational app is watched and used by millions of children weekly - and they have strong momentum in signing up schools to their broader bundle of products to create more impact."
+    ]
+  },
+  {
     "name": "Ubongo",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6067a08286b1f25d59bad3dc_Ubongo-Feature-2.png",
@@ -184,7 +207,7 @@
     "website": "https://aceliafrica.org/",
     "investments": [
       {
-        "amount": 300000,
+        "amount": 350000,
         "type": "unrestricted grants"
       }
     ],
@@ -256,6 +279,10 @@
       {
         "amount": 100000,
         "type": "unrestricted grants"
+      },
+      {
+        "amount": 300000,
+        "type": "debt"
       }
     ],
     "created": null,
@@ -406,7 +433,7 @@
     "website": "https://www.myagro.org/",
     "investments": [
       {
-        "amount": 1950000,
+        "amount": 2200000,
         "type": "unrestricted grants"
       }
     ],
@@ -439,28 +466,6 @@
     },
     "why": [
       "Most of the world's poorest people are smallholder farmers. One Acre Fund gets these farmers a complete set of services to get out of hunger and make a better living from a small farm: financing for farm inputs, distribution of seeds and fertilizer, training on agricultural techniques, and access to crop markets. Their bundled services have already reached a million people across four countries."
-    ]
-  },
-  {
-    "name": "Precision Agriculture for Development",
-    "imageUrls": {
-      "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60679c4f73e522f8cfe5a500_PAD-Feature.jpg",
-      "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60679c52de5c8d871a984ca4_PAD-Logo-2.png"
-    },
-    "website": "https://precisionag.org/",
-    "investments": [
-      {
-        "amount": 600000,
-        "type": "unrestricted grants"
-      }
-    ],
-    "created": 2017,
-    "fellows": {
-      "rainer": "",
-      "henry": ""
-    },
-    "why": [
-      "Governments and NGOs –including many in our portfolio – are experimenting with mobile phone based services that can change or nudge farmers’ behavior. However, there is rarely good data on what leads to impact and many organizations lack the technical capacity to design and deliver these services in-house. PAD designs, tests, and operates mobile phone-based services that deliver low-cost, customized advice to farmers. They work directly with farmers to develop these services, then partner with governments and other NGOs to deliver them."
     ]
   },
   {
@@ -512,6 +517,28 @@
     ]
   },
   {
+    "name": "PxD",
+    "imageUrls": {
+      "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60679c4f73e522f8cfe5a500_PAD-Feature.jpg",
+      "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/61b9e2611106b5ec72076d82_PxD-logo.svg"
+    },
+    "website": "https://precisiondev.org/",
+    "investments": [
+      {
+        "amount": 850000,
+        "type": "unrestricted grants"
+      }
+    ],
+    "created": 2017,
+    "fellows": {
+      "rainer": "",
+      "henry": ""
+    },
+    "why": [
+      "Governments and NGOs –including many in our portfolio – are experimenting with mobile phone based services that can change or nudge farmers’ behavior. However, there is rarely good data on what leads to impact and many organizations lack the technical capacity to design and deliver these services in-house. PxD designs, tests, and operates mobile phone-based services that deliver low-cost, customized advice to farmers. They work directly with farmers to develop these services, then partner with governments and other NGOs to deliver them."
+    ]
+  },
+  {
     "name": "West African Rice Company",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/60679deca2207a7c2cfd9b93_WARC-feature.jpg",
@@ -538,28 +565,6 @@
     ]
   },
   {
-    "name": "BOMA Project",
-    "imageUrls": {
-      "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6048442af29a4501be909353_boma-feature3.jpg",
-      "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6048443b6426dc495d5ec05a_boma-logo.jpg"
-    },
-    "website": "https://bomaproject.org/",
-    "investments": [
-      {
-        "amount": 1900000,
-        "type": "unrestricted grants"
-      }
-    ],
-    "created": 2013,
-    "fellows": {
-      "rainer": "Kathleen Colson",
-      "henry": ""
-    },
-    "why": [
-      "Millions of families live in arid, low-productivity lands and are essentially cut off from the modern economy. Few organizations have focused their work on these difficult settings. The BOMA Project works with women in these drought-plagued remote areas to start small shops that sell local staples.  They take the poorest women in pastoralist communities through a proven two-year “graduation out of poverty” program that includes a small seed grant and a lot of training and support.  They deliver the solution directly and they help governments and other NGOs deliver it through a technical assistance model. Rigorous studies show gains in income and savings that buffer the inevitable shocks of drought.  They have the most effective solution we’ve seen in this kind of setting, deliver it at much lower cost than similar groups, and are working hard to get others – NGOs and government – to replicate it."
-    ]
-  },
-  {
     "name": "Bridges to Prosperity",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/604844cbb3b5597b7c6460f2_b2p-feature.jpg",
@@ -568,7 +573,7 @@
     "website": "https://www.bridgestoprosperity.org/",
     "investments": [
       {
-        "amount": 350000,
+        "amount": 600000,
         "type": "unrestricted grants"
       }
     ],
@@ -579,6 +584,29 @@
     },
     "why": [
       "Millions of people live in isolated settings where the terrain and weather—like flash flooding—cuts them off from jobs, markets, healthcare and schools. Isolation keeps them in poverty. Bridges to Prosperity brings opportunity to these isolated communities by building bridges. There is a body of evidence demonstrating that bridges increase incomes and reduce mortality. B2P identify places where bridges will have the most impact, design site-specific structures, and work alongside government to come up with a credible long term financing plan for delivery of bridges built to rigorous quality and safety standards."
+    ]
+  },
+  {
+    "name": "Medha",
+    "imageUrls": {
+      "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/61b75dff0108852db8b6235d_medha%20website%204.jpg",
+      "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/61b75e1252fda206ae5175e8_medha%20Standard%20Logo%20(Original%20color).png"
+    },
+    "website": "https://medha.org.in/",
+    "investments": [
+      {
+        "amount": 350000,
+        "type": "unrestricted grants"
+      }
+    ],
+    "created": 2020,
+    "fellows": {
+      "rainer": "Chris Turillo",
+      "henry": ""
+    },
+    "why": [
+      "Despite rising higher education levels in India, millions of people who graduate from technical and vocational programs lack the basic soft skills necessary to get hired and begin a thriving career. At the same time, local blue-collar employers struggle to find quality talent with on-the-job experience.  Medha embeds career coaching in low-resource public education institutions so that low-income youth get jobs that pay well and that they like. ",
+      "Medha’s well trained counselors help students find the right career pathway, teach them employability skills - critical thinking, creativity, collaboration and communication - and get students quality internships so they can test out different career paths. There’s a growing Medha alumni network that provides further career opportunities and peer support. It’s a simple model that’s already being delivered by government in two states with a strategy to scale to every public institution in North India."
     ]
   },
   {
@@ -634,7 +662,7 @@
     "website": "http://www.amaniglobalworks.org/",
     "investments": [
       {
-        "amount": 850000,
+        "amount": 950000,
         "type": "unrestricted grants"
       }
     ],
@@ -745,7 +773,7 @@
     "website": "https://integratehealth.org/",
     "investments": [
       {
-        "amount": 1100000,
+        "amount": 1600000,
         "type": "unrestricted grants"
       }
     ],
@@ -767,7 +795,7 @@
     "website": "https://www.intelehealth.org/",
     "investments": [
       {
-        "amount": 350000,
+        "amount": 600000,
         "type": "unrestricted grants"
       }
     ],
@@ -789,7 +817,7 @@
     "website": "https://lastmilehealth.org/",
     "investments": [
       {
-        "amount": 2750000,
+        "amount": 3000000,
         "type": "unrestricted grants"
       }
     ],
@@ -835,7 +863,7 @@
     "website": "https://lwala.org/",
     "investments": [
       {
-        "amount": 400000,
+        "amount": 650000,
         "type": "unrestricted grants"
       }
     ],
@@ -872,6 +900,29 @@
     ]
   },
   {
+    "name": "Mothers2mothers",
+    "imageUrls": {
+      "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/606778d2ccaf0d7948ec26e2_mothers-to-mothers-feature.jpg",
+      "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/606778d3c70bbc12f70636b0_mothers-2-mothers-logo.png"
+    },
+    "website": "https://m2m.org/",
+    "investments": [
+      {
+        "amount": 2600000,
+        "type": "unrestricted grants"
+      }
+    ],
+    "created": 2010,
+    "fellows": {
+      "rainer": "",
+      "henry": ""
+    },
+    "why": [
+      "Peer-to-peer teaching and support has proven to be one of the most successful ways to prevent mother-to-baby transmission of HIV.  mothers2mothers recruits HIV+ moms (Mentor Mothers) to teach other HIV+ moms how to protect their babies from infection and keep their families healthy. They’ve virtually eliminated mom-to-baby transmission of HIV for those they serve, and they’re applying a peer support approach to new domains. Now m2m has adapted their model to address family health beyond pregnancy and birth.  Moreover, m2m is serious about scaling up success: they are teaching other organizations – ministries and big NGOs – how to adapt and use the model in their own settings.  ",
+      "mothers2mothers is one of a bunch of primary healthcare organizations in Mulago’s portfolio self-organized into the Community Health Impact Coalition (CHIC). As individual organizations, they’ve each had outstanding impact and integration with their governments partners. But together they’ve created a movement that could be the impact jackpot. They speak with a louder voice when they call collectively for all community health workers to be salaried, skilled, supervised, supplied & incorporated into national strategies in order to achieve health for all."
+    ]
+  },
+  {
     "name": "Muso",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/606786d5f6f46073881cc00a_muso-feature.jpg",
@@ -880,7 +931,7 @@
     "website": "https://www.musohealth.org/",
     "investments": [
       {
-        "amount": 2100000,
+        "amount": 2600000,
         "type": "unrestricted grants"
       }
     ],
@@ -947,7 +998,7 @@
     "website": "https://www.noorahealth.org/",
     "investments": [
       {
-        "amount": 1300000,
+        "amount": 1800000,
         "type": "unrestricted grants"
       }
     ],
@@ -1014,7 +1065,7 @@
     "website": "https://projecthealthychildren.org/",
     "investments": [
       {
-        "amount": 1100000,
+        "amount": 1600000,
         "type": "unrestricted grants"
       }
     ],
@@ -1036,7 +1087,7 @@
     "website": "https://savelifefoundation.org/",
     "investments": [
       {
-        "amount": 1060000,
+        "amount": 1000000,
         "type": "unrestricted grants"
       }
     ],
@@ -1174,7 +1225,7 @@
     "website": "https://www.young1ove.org/",
     "investments": [
       {
-        "amount": 1200000,
+        "amount": 1700000,
         "type": "unrestricted grants"
       }
     ],
@@ -1188,29 +1239,6 @@
     ]
   },
   {
-    "name": "mothers2mothers",
-    "imageUrls": {
-      "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/606778d2ccaf0d7948ec26e2_mothers-to-mothers-feature.jpg",
-      "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/606778d3c70bbc12f70636b0_mothers-2-mothers-logo.png"
-    },
-    "website": "https://m2m.org/",
-    "investments": [
-      {
-        "amount": 2600000,
-        "type": "unrestricted grants"
-      }
-    ],
-    "created": 2010,
-    "fellows": {
-      "rainer": "",
-      "henry": ""
-    },
-    "why": [
-      "Peer-to-peer teaching and support has proven to be one of the most successful ways to prevent mother-to-baby transmission of HIV.  mothers2mothers recruits HIV+ moms (Mentor Mothers) to teach other HIV+ moms how to protect their babies from infection and keep their families healthy. They’ve virtually eliminated mom-to-baby transmission of HIV for those they serve, and they’re applying a peer support approach to new domains. Now m2m has adapted their model to address family health beyond pregnancy and birth.  Moreover, m2m is serious about scaling up success: they are teaching other organizations – ministries and big NGOs – how to adapt and use the model in their own settings.  ",
-      "mothers2mothers is one of a bunch of primary healthcare organizations in Mulago’s portfolio self-organized into the Community Health Impact Coalition (CHIC). As individual organizations, they’ve each had outstanding impact and integration with their governments partners. But together they’ve created a movement that could be the impact jackpot. They speak with a louder voice when they call collectively for all community health workers to be salaried, skilled, supervised, supplied & incorporated into national strategies in order to achieve health for all."
-    ]
-  },
-  {
     "name": "EarthEnable",
     "imageUrls": {
       "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/6067739605ece095c0d66c62_earthenable-feature.jpg",
@@ -1219,7 +1247,7 @@
     "website": "https://www.earthenable.org/",
     "investments": [
       {
-        "amount": 1000000,
+        "amount": 1250000,
         "type": "unrestricted grants"
       }
     ],
@@ -1307,7 +1335,7 @@
     "website": "https://blueventures.org/",
     "investments": [
       {
-        "amount": 1450000,
+        "amount": 2250000,
         "type": "unrestricted grants"
       }
     ],
@@ -1396,7 +1424,7 @@
     "website": "https://www.globalforestwatch.org/",
     "investments": [
       {
-        "amount": 500000,
+        "amount": 1000000,
         "type": "unrestricted grants"
       }
     ],
@@ -1418,7 +1446,7 @@
     "website": "https://www.maliasili.org/",
     "investments": [
       {
-        "amount": 750000,
+        "amount": 1250000,
         "type": "unrestricted grants"
       }
     ],
@@ -1446,6 +1474,29 @@
     },
     "why": [
       "Throughout the world, indigenous people control - or should control - large swathes of territory that provide critical ecosystem services for all of us. They have their own development aspirations and need to get a return on their natural capital without spending it down. Nia Tero uses a proven agreement methodology to create partnerships that assure guardianship, interdependent development, and conservation: thriving people in thriving places."
+    ]
+  },
+  {
+    "name": "Urgewald",
+    "imageUrls": {
+      "header": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/61ba26f6df01b880b84d2676_urgewald%208.jpg",
+      "logo": "https://uploads-ssl.webflow.com/6046b38de1518042702e35ee/61b75f6be14dbcfe6339df56_urgewald%20logo.jpg"
+    },
+    "website": "https://urgewald.org/en/english",
+    "investments": [
+      {
+        "amount": 350000,
+        "type": "unrestricted grants"
+      }
+    ],
+    "created": 2018,
+    "fellows": {
+      "rainer": "",
+      "henry": "Heffa Schücking"
+    },
+    "why": [
+      "Financial institutions continue to pour billions into the fossil fuel industry.  Interrupting the flow is crucial to prevent the worst impacts of the climate crisis, which will hit poor communities the hardest.  Before you can stop the flow of funds you have to know who is sending how much money where.  To disrupt the finance of dirty-industry, Urgewald traces the flow of money to fossil fuels like coal, oil and gas and then publishes user-friendly databases. They persuade financial institutions to stop investing in fossil fuels by: 1) showing them the damage they’re doing, 2) creating reputational risk, and 3) mounting public campaigns. They then give them simple, industry-standard investment policies that exclude fossil fuels.",
+      "Urgewald has influenced the policies of many leading financial institutions so far, including Europe’s largest pension fund, and work strategically with regulators to adopt and enforce investment policies that exclude fossil fuel. Their successes have motivated other environmental organizations to adopt Urgewald’s approach, and they now partner with local NGOs to run effective public pressure campaigns around the globe. "
     ]
   },
   {
