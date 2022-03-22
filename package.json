@@ -1,6 +1,6 @@
 {
   "name": "@alexvipond/mulago-foundation-portfolio",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Dataset of organizations in the Mulago Foundation's portfolio",
   "main": "lib/index.cjs",
   "module": "lib/index.js",
