@@ -41,8 +41,10 @@
   "homepage": "https://github.com/alexvipond/mulago-foundation-portfolio",
   "dependencies": {
     "esbuild": "^0.13.10",
-    "esbuild-register": "^3.0.0",
-    "playwright": "^1.16.2"
+    "esbuild-register": "^3.0.0"
   },
-  "sideEffects": false
+  "sideEffects": false,
+  "devDependencies": {
+    "playwright": "^1.46.1"
+  }
 }

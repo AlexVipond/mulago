@@ -8,6 +8,13 @@ export type Organization = {
     logo: string,
   },
   website: string,
+  donate: string,
+  socialUrls: {
+    twitter: string,
+    linkedin: string,
+    facebook: string,
+    instagram: string,
+  },
   investments: {
     amount: number,
     type: 'unrestricted grants' | 'equity' | 'loans' | 'convertible debt',
@@ -26,7 +33,7 @@ export async function get (): Promise<Organization[]> {
   await page.goto('https://www.mulagofoundation.org/our-portfolio')
 
   const links = await page.evaluate(() =>
-    Array.from(document.querySelectorAll('.link-portfolio-index'))
+    Array.from(document.querySelectorAll('.card-portfolio-index-new'))
       .map(link => (link as HTMLAnchorElement).href)
   )
 
@@ -34,8 +41,6 @@ export async function get (): Promise<Organization[]> {
   
   for (const link of links) {
     await page.goto(link)
-
-    console.log(link)
     
     const organization: Organization = await page.evaluate(link => {
       return {
@@ -45,7 +50,14 @@ export async function get (): Promise<Organization[]> {
           header: (document.querySelector('header img') as HTMLImageElement).src,
           logo: (document.querySelector('.logo-org') as HTMLImageElement).src,
         },
+        socialUrls: {
+          facebook: (document.querySelector('.link-block-social-icon[href*="facebook.com"]') as HTMLAnchorElement)?.href || '',
+          twitter: (document.querySelector('.link-block-social-icon:is([href*="twitter.com"], [href*="x.com"])') as HTMLAnchorElement)?.href || '',
+          linkedin: (document.querySelector('.link-block-social-icon[href*="linkedin.com"]') as HTMLAnchorElement)?.href || '',
+          instagram: (document.querySelector('.link-block-social-icon[href*="instagram.com"]') as HTMLAnchorElement)?.href || '',
+        },
         website: (document.querySelector('.link-view-website') as HTMLAnchorElement).href,
+        donate: (document.querySelector('.link-block-donate .link-view-website') as HTMLAnchorElement)?.href || '',
         investments: document.querySelector('.investment-block').textContent.includes('$')
           ? document.querySelector('.investment-block .investment-text:nth-child(2)').textContent
             .split(/(?:,|;)/g)

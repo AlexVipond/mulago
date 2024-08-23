@@ -1,5 +1,5 @@
 import { writeFileSync} from 'fs'
-import { get, Organization } from './get'
+import { get } from './get'
 
 async function write () {
   const portfolio = await get()
