@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexvipond/mulago-foundation-portfolio.git"
+    "url": "git+https://github.com/alexvipond/mulago.git"
   },
   "keywords": [
     "mulago foundation",
@@ -33,9 +33,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alexvipond/mulago-foundation-portfolio/issues"
+    "url": "https://github.com/alexvipond/mulago/issues"
   },
-  "homepage": "https://github.com/alexvipond/mulago-foundation-portfolio",
+  "homepage": "https://github.com/alexvipond/mulago",
   "sideEffects": false,
   "devDependencies": {
     "esbuild": "^0.23.1",
