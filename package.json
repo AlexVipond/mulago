@@ -1,6 +1,6 @@
 {
-  "name": "@alexvipond/mulago-foundation-portfolio",
-  "version": "0.0.2",
+  "name": "@alexvipond/mulago",
+  "version": "0.0.0",
   "description": "Dataset of organizations in the Mulago Foundation's portfolio",
   "main": "lib/index.cjs",
   "module": "lib/index.js",
@@ -15,10 +15,7 @@
     "explore": "node -r esbuild-register scripts/explore.ts",
     "src": "node -r esbuild-register scripts/src.ts",
     "kumu": "node -r esbuild-register scripts/kumu.ts",
-    "prepare": "node -r esbuild-register scripts/prepare.ts",
-    "test:only": "run() { uvu -r esbuild-register tests/$2 $1.test.ts$; }; run",
-    "test": "npm run test:only .",
-    "dev": "vite"
+    "prepare": "node -r esbuild-register scripts/prepare.ts"
   },
   "repository": {
     "type": "git",
@@ -39,12 +36,10 @@
     "url": "https://github.com/alexvipond/mulago-foundation-portfolio/issues"
   },
   "homepage": "https://github.com/alexvipond/mulago-foundation-portfolio",
-  "dependencies": {
-    "esbuild": "^0.13.10",
-    "esbuild-register": "^3.0.0"
-  },
   "sideEffects": false,
   "devDependencies": {
+    "esbuild": "^0.23.1",
+    "esbuild-register": "^3.6.0",
     "playwright": "^1.46.1"
   }
 }
