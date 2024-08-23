@@ -29,11 +29,19 @@ module.exports = { portfolio, names }
   const dts = `\
 declare type Organization = {
   name: string,
+  portfolioUrl: string,
   imageUrls: {
     header: string,
     logo: string,
   },
   website: string,
+  donate: string,
+  socialUrls: {
+    twitter: string,
+    linkedin: string,
+    facebook: string,
+    instagram: string,
+  },
   investments: {
     amount: number,
     type: 'unrestricted grants' | 'equity' | 'loans' | 'convertible debt',
